@@ -1,0 +1,16 @@
+IPC-System-Simple-*.tar.gz
+META.yml
+Makefile
+Makefile.old
+blib
+cover_db
+pm_to_blib
+CVS
+MANIFEST.bak
+t/core
+Debian_CPANTS.txt
+MYMETA.json
+MYMETA.yml
+.build
+*.swp
+IPC-System-Simple-*
